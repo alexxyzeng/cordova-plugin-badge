@@ -5,11 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-badge",
     "platforms": [
-      "ios",
-      "osx",
-      "android",
-      "browser",
-      "windows"
+      "ios"
     ]
   },
   "repository": {
@@ -26,24 +22,6 @@
     "cordova-android",
     "cordova-browser",
     "cordova-windows"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=6.0.0"
-    },
-    {
-      "name": "apple-ios",
-      "version": ">=10.0.0"
-    },
-    {
-      "name": "cordova-android",
-      "version": ">=4"
-    },
-    {
-      "name": "cordova-plugman",
-      "version": ">=4.2.0"
-    }
   ],
   "author": "Sebastián Katzer",
   "license": "Apache 2.0",
